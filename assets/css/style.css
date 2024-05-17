@@ -148,7 +148,8 @@ float: right;
 body {
     font-size: 15px;
     line-height: 24px;
-    background:#F8FAFF;
+    *background:#F8FAFF;
+    background:#145a9d;
 }
 
 a {
