@@ -234,7 +234,8 @@ address {
 .navbar {
   font-weight: bold;
   padding-top: 15px;
-  padding-bottom: 15px;
+  /* padding-bottom: 15px; */
+  padding-bottom: 100px;
   margin-bottom: 0;
 }
 /*
