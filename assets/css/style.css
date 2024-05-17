@@ -755,7 +755,7 @@ footer h3 {
 @media (max-width: 767px) {
   .carousel-caption {
     font-size: 11px;
-    padding-bottom: 0;
+    padding-bottom: 50;
     bottom: 0;
   }
   .carousel-caption .carousel-title {
