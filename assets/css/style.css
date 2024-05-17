@@ -745,8 +745,8 @@ footer h3 {
   .carousel-caption {
     font-size: 12px;
     /*padding-bottom: 0px;*/
-    padding-bottom: 15px;
-    bottom: 2px;
+    padding-bottom: 0px;
+    bottom: 0px;
   }
   .carousel-caption .carousel-title {
     font-size: 18px;
