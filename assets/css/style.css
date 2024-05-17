@@ -510,7 +510,8 @@ footer{
    margin-top:40px;
    left: 0;
    right: 0;
-   background: black;
+   /*background: black;*/
+   background: #0b5757;
    bottom: 0px;
 }
 
@@ -540,7 +541,8 @@ footer h3 {
 .copyright {
     color: #fff;
     padding: 20px 0px 10px 0px;
-    background-color: rgb(23, 23, 23);
+    /*background-color: rgb(23, 23, 23);*/
+    background-color: #0d6968;
 }
 
 /*
