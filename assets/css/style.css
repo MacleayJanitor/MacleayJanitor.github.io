@@ -270,7 +270,8 @@ address {
 @media (min-width: 800px){ 
  
     .side-left{
-  height: 1248px;
+  /*height: 1248px;*/
+  height: 2500px;
 }
  }
 
@@ -290,7 +291,8 @@ address {
     background-image:url('../img/slider/1.jpg');
     height:350px;
     margin-bottom: 30px;
-    padding-top: 120px;
+    /* padding-top: 120px; */
+    padding-top: 400px;
 }
 
 @media (min-width: 100px) and (max-width: 800px) { 
