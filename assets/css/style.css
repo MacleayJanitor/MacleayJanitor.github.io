@@ -148,7 +148,8 @@ float: right;
 body {
     font-size: 15px;
     line-height: 24px;
-    background:#F8FAFF;
+    /*background:#F8FAFF;*/
+    background:#eef6fd;
 }
 
 a {
@@ -226,7 +227,8 @@ address {
 * ==========================================================================
 */
 .active{
-  background:#74B9B9 !important;
+  /*background:#74B9B9 !important;*/
+  background:#cbe2f8 !important;
   color: white;
 }
 .navbar {
