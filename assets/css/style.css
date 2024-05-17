@@ -675,7 +675,8 @@ footer h3 {
 .blockquote-box.blockquote-success .square{background-color:#5CB85C;color:#FFF}
 /*.blockquote-box.blockquote-info{border-color:#46B8DA}*/
 .blockquote-box.blockquote-info{border-color:white}
-.blockquote-box.blockquote-info .square{background-color:#5BC0DE;color:#FFF}
+/*.blockquote-box.blockquote-info .square{background-color:#5BC0DE;color:#FFF}*/
+.blockquote-box.blockquote-info .square{background-color:#FFF;color:#FFF}
 .blockquote-box.blockquote-warning{border-color:#EEA236}
 .blockquote-box.blockquote-warning .square{background-color:#F0AD4E;color:#FFF}
 .blockquote-box.blockquote-danger{border-color:#D43F3A}
