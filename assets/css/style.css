@@ -149,7 +149,7 @@ body {
     font-size: 15px;
     line-height: 24px;
     /*background:#F8FAFF;*/
-    background: white;
+    /*background: white; */
 }
 
 a {
@@ -746,7 +746,7 @@ footer h3 {
     font-size: 12px;
     /*padding-bottom: 0px;*/
     padding-bottom: 0px;
-    bottom: 0px;
+    /*bottom: 0px; */
   }
   .carousel-caption .carousel-title {
     font-size: 18px;
